@@ -1,0 +1,11 @@
+{
+    "name": "davi/crud_poo-wdev",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
